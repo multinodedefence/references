@@ -1,3 +1,9 @@
+# Members
+
+- Rinze Watanabe
+- Andy Jie Peng
+- Adrian Cryer
+
 # Technology
 
 ## Group Member
