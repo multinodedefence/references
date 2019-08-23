@@ -6,8 +6,6 @@
 
 # Technology
 
-## Group Member
-
 ## [Node.js](https://nodejs.org/en/)
 
 Used for backend. Player communicate using sockets. 
